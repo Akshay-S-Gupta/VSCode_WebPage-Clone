@@ -452,10 +452,9 @@ img {
     color: black;
 }
 
-.footer {
-    font-size: 15px;
-    margin-left: 100px;
-    width: 80%;
+footer {
+    justify-content: center;
+    align-items: center;
     height: 100px;
 }
 
@@ -480,4 +479,15 @@ img {
 
 .footer-links a:hover {
     color: black;
+}
+
+.footer-text {
+    margin: 0;
+    text-align: center;
+    font-size: 14px;
+    color: grey;
+}
+
+.footer-text a {
+    color: grey;
 }
