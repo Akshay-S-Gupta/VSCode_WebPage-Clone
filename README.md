@@ -5,10 +5,11 @@ It replicates the design, layout, and interactive features using HTML, CSS, and 
 # Preview of the Clone
 Screenshot
 Below is a preview of the replicated webpage design:
-Light-Mode:
+
+## Light-Mode:
 ![VS_Code_Clone-Light_Mode](https://github.com/user-attachments/assets/d9aea5f0-92f7-4106-b943-16df64c57405)
 
-Dark-Mode:
+## Dark-Mode:
 ![VS_Code_Clone-Dark_Mode](https://github.com/user-attachments/assets/a4684ee1-19e9-4824-a44d-d689cb0ba81f)
 
 
