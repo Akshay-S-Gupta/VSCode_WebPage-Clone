@@ -43,7 +43,7 @@ Ensure you have a modern web browser (e.g., Chrome, Firefox, Edge).
 
 ## Installation
 1. Clone this repository:
-$ git clone https://github.com/yourusername/VSCode_WebPage-Clone.git  
+$ git clone https://github.com/Akshay-S-Gupta/VSCode_WebPage-Clone.git  
 
 2. Navigate to the project folder:
 $ cd VSCode_WebPage-Clone  
