@@ -1,11 +1,16 @@
 # VSCode_WebPage-Clone
-This project is a clone of the official Visual Studio Code homepage (https://code.visualstudio.com/).
-It replicates the design, layout, and some interactive features using HTML, CSS, and modern design practices.
+This project clones the official Visual Studio Code homepage (https://code.visualstudio.com/).
+It replicates the design, layout, and interactive features using HTML, CSS, and modern design practices.
 
 # Preview of the Clone
 Screenshot
 Below is a preview of the replicated webpage design:
-![AKSHAY_S_GUPTA-VS_Code_Clone](https://github.com/user-attachments/assets/5a58adc7-245a-463e-8d66-066c3dc2b8ab)
+Light-Mode:
+![VS_Code_Clone-Light_Mode](https://github.com/user-attachments/assets/d9aea5f0-92f7-4106-b943-16df64c57405)
+
+Dark-Mode:
+![VS_Code_Clone-Dark_Mode](https://github.com/user-attachments/assets/a4684ee1-19e9-4824-a44d-d689cb0ba81f)
+
 
 Original Webpage Reference
 You can check the official Visual Studio Code homepage here: https://code.visualstudio.com/.
@@ -34,7 +39,7 @@ VSCode_WebPage-Clone/
 
 #Getting Started
 ## Prerequisites
-Make sure you have a modern web browser (e.g., Chrome, Firefox, Edge).
+Ensure you have a modern web browser (e.g., Chrome, Firefox, Edge).
 
 ## Installation
 1. Clone this repository:
