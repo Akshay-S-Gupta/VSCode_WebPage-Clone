@@ -3,6 +3,10 @@ This project clones the official Visual Studio Code homepage (https://code.visua
 It replicates the design, layout, and interactive features using HTML, CSS, and modern design practices.
 
 # Preview of the Clone
+
+## Hosted Page:
+https://akshay-s-gupta.github.io/VSCode_WebPage-Clone/
+
 Screenshot
 Below is a preview of the replicated webpage design:
 
